@@ -51,33 +51,3 @@ Para aplicar filtros:
 2. Ve a **Filtro > Galería de filtros**.
 3. Selecciona el filtro deseado y ajusta los parámetros.
 4. Haz clic en **Aceptar**.
-
-## Estilos CSS Personalizados
-
-```css
-#photoshopContainer {
-  border: 2px solid #0073e6;
-  padding: 10px;
-  background-color: #f0f0f0;
-  animation: glowEffect 2s infinite;
-}
-
-@keyframes glowEffect {
-  50% { box-shadow: 0px 0px 15px #0073e6; }
-}
-```
-
-<style>
-#photoshopContainer {
-  border: 2px solid #0073e6;
-  padding: 10px;
-  background-color: #f0f0f0;
-  animation: glowEffect 2s infinite;
-}
-
-@keyframes glowEffect {
-  50% { box-shadow: 0px 0px 15px #0073e6; }
-}
-</style>
-
-<div id="photoshopContainer">Esto es un ejemplo de CSS aplicado a Photoshop</div>
