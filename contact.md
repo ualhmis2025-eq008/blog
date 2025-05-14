@@ -116,7 +116,7 @@ permalink: /contacto/
 <div class="contact-container">
   <h2 class="contact-title">📬 Contáctanos</h2>
   
-  <form action="https://formspree.io/f/meoaqpdz" method="POST">
+  <form action="https://formspree.io/f/xbloqjne" method="POST">
     <div class="form-group">
       <label for="name" class="form-label">Nombre completo</label>
       <input type="text" id="name" name="name" class="form-input" required placeholder="Tu nombre">
